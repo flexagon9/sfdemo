@@ -7,7 +7,7 @@
         <fieldName>recordId</fieldName>
     </lightningMessageFields>
     <lightningMessageFields>
-        <description>The current data representing the record that changed</description>
+        <description>The current data 001 representing the record that changed</description>
         <fieldName>recordData</fieldName>
     </lightningMessageFields>
     <masterLabel>SampleMessageChannel</masterLabel>
